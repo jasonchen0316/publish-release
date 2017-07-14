@@ -63,4 +63,3 @@ Options:
                                   Ex: --target_commitish "master"
 ```
 
-# publish-release
